@@ -2,7 +2,7 @@
 
 Welcome to the **Embedded Systems & Robotics** repository! This comprehensive course is designed to take you from the basics of electronics to advanced robotics and IoT integration. Whether you're a beginner or looking to enhance your skills, this curriculum offers hands-on projects, industry practices, and in-depth theory to prepare you for the tech world.
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Embedded+Systems+%26+Robotics+Banner)
+<!--[Banner](https://via.placeholder.com/1200x400.png?text=Embedded+Systems+%26+Robotics+Banner)-->
 
 ## 📚 Table of Contents
 1. [Basic Components & Electronics](#1-basic-components--electronics)
@@ -98,10 +98,10 @@ Welcome to the **Embedded Systems & Robotics** repository! This comprehensive co
 - **Industry-Aligned**: Case studies and interview prep for career readiness.
 - **Comprehensive Curriculum**: From basics to advanced robotics and IoT.
 
----
+<!---
 
 ## 📜 License
-This course is open-source and free for educational use. See [LICENSE](LICENSE) for details.
+This course is open-source and free for educational use. See [LICENSE](LICENSE) for details.--->
 
 ---
 
@@ -111,5 +111,5 @@ Contributions are welcome! Fork the repo, create a branch, and submit a PR. See 
 ---
 
 **Let’s build the future of robotics together!** 🚀  
-_For questions, email `contact@example.com` or open an issue._  
+_For questions, email `avarshvir@gmail.com` or open an issue._  
 ⭐ **Star this repo to show support!** ⭐
