@@ -1,6 +1,6 @@
 
-#define trig 7
-#define echo 6
+#define trig 6
+#define echo 7
 
 void setup(){
   pinMode(echo,INPUT);
@@ -20,7 +20,7 @@ void loop(){
   Serial.print("Distance is ");
   Serial.print(distance);
   Serial.println("cm");
-  delay(50);
+  delay(500);
 }
 
 
