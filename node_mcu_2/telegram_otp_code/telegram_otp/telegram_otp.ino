@@ -5,8 +5,8 @@
 #define WIFI_SSID "iot"  //hotspot
 #define WIFI_PASSWORD "project1234"    //password       
 
-#define BOT_TOKEN "7909504037:AAGWmoWrr2MNrhGzKTyCA1AxuMNoXy0YJ4o"   //api
-#define chat_id "991663718"
+#define BOT_TOKEN "XXXXXX:XXXXXXXXXXXXXXXXXXXXXX"   //api
+#define chat_id "XXXXXX"
 
 //const unsigned long BOT_MTBS = 1000; // mean time between scan messages
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
