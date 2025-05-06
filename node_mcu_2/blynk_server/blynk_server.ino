@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "XXXXXXXXX"
+#define BLYNK_TEMPLATE_ID "TMPL3WfAFLn5l"
 #define BLYNK_DEVICE_NAME "Gas"
-#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXXXXXXX"
+#define BLYNK_AUTH_TOKEN "l3A-tQ7RjMn89CTlvZUdxE_MlM-Vo5E8"
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
@@ -23,7 +23,9 @@ void sendSensor(){
  Blynk.virtualWrite(V0, value);
  Serial.print("Pin A0: ");
  Serial.println(value);
-
+if(value > 70){
+  Blynk.logEvent("gas","Gas Detected");
+}
  
 }
 
